@@ -10,3 +10,6 @@ Aplicación que muestra tarjetas de usuarios con diseño responsive.
 ## Cómo ejecutar
 npm install
 npm run dev
+
+![alt text](image.png)
+![alt text](image-1.png)
